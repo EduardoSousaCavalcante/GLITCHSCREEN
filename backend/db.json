@@ -32,6 +32,13 @@
     }
   ],
 
+  "3card": [
+    { "nome": "Sailor", "foto": "img/sailor.png" },
+    { "nome": "SailorMoon", "foto": "img/sailor.png" },
+    { "nome": "Moon", "foto": "img/sailor.png" }
+    
+  ],
+
   "categorias": [
     { "CodCategoria": 1, "CategoriaTipo": "Competitivo Online" },
     { "CodCategoria": 2, "CategoriaTipo": "Cooperativo" },
